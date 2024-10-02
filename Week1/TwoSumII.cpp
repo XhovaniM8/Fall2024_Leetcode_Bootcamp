@@ -20,7 +20,6 @@ public:
             }
             else
             {
-
                 return {left + 1, right + 1};
             }
         }
